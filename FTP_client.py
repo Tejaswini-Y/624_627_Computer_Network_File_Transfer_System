@@ -1,7 +1,7 @@
 import socket
 import ssl
 
-IP = "10.1.19.36"
+IP = "10.1.20.235"
 PORT = 4455
 ADDR = (IP, PORT)
 FORMAT = "utf-8"
