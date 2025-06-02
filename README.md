@@ -4,6 +4,7 @@
     * server.crt (Server certificate)
     * server.key (Server private key)
     * client.crt (Client certificate used for verification)
+    * client.key (Client private key)
 * To run code
     * First run server.py in one system -- python server.py
     * Then make a hello.txt file on client system and write the content that needs to be transferred
